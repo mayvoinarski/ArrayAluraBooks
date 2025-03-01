@@ -14,20 +14,18 @@ body {
   font-family: 'Poppins';
 }
 
-.wrap {
-  width: 1280px;
-  margin: 0 auto;
-}
-
 .header {
   text-align: center;
   width: 100%;
   background-color: var(--bg-color);
   margin: 15px 15px;
 }
-
+.wrap {
+  width: 1280px;
+  margin: 0 auto;
+}
 .banner {
-  background-image: url('/imagens/Banner-1.png');
+  background-image: url('./imagens/Banner-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 278px;
